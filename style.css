@@ -1,0 +1,20 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: rgb(68, 81, 77);
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+}
